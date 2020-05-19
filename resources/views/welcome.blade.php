@@ -50,9 +50,9 @@
 								<header class="major">
 									<span class="date">Lesson 1</span>
 									<h2><a href="#">Terminology</a></h2>
-									<p>Learn the important difference between drums and bongos<br>(spoiler alert, no one likes people who call themselves bongists,<br>especially if you use a hard "g").</p>
+									<p>Learn the important difference between drums and bongos.<br>NOTE: No one likes people who call themselves bongists<br>(especially if you use a hard "g").</p>
 								</header>
-								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
+								<a href="#" class="image main"><img src="images/terms.jpg" alt="" /></a>
 								<ul class="actions special">
 									<li><a href="#" class="button large">View Lesson</a></li>
 								</ul>
@@ -65,8 +65,8 @@
 										<span class="date">Lesson 2</span>
 										<h2><a href="#">Pair of Diddles</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-									<p>Paradiddles for dummies.</p>
+									<a href="#" class="image fit"><img src="images/diddles.jpg" alt="" /></a>
+									<p>Paradiddles for dummies, or, "How I learned to stop worrying and love me for the way I am."</p>
 									<ul class="actions special">
 										<li><a href="#" class="button">View Lesson</a></li>
 									</ul>
@@ -76,8 +76,8 @@
 										<span class="date">Lesson 3</span>
 										<h2><a href="#">Tough Love</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
-									<p>How does it feel to be one of the beautiful people?</p>
+									<a href="#" class="image fit"><img src="images/love.jpg" alt="" /></a>
+									<p>Billy Jean is not my lover. She's just a girl who claims that I am "the one," but the kid is not my son. In fact, I'm not even sure he's hers.</p>
 									<ul class="actions special">
 										<li><a href="#" class="button">View Lesson</a></li>
 									</ul>
@@ -87,7 +87,7 @@
 										<span class="date">Lesson 4</span>
 										<h2><a href="#">Tuning</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+									<a href="#" class="image fit"><img src="images/tuning.jpg" alt="" /></a>
 									<p>Make your floor tom sound like John Bonham (a dead British person, whose middle name was probably something like Harry or Henry or Herman or some shit).</p>
 									<ul class="actions special">
 										<li><a href="#" class="button">View Lesson</a></li>
@@ -98,8 +98,8 @@
 										<span class="date">Lesson 5</span>
 										<h2><a href="#">Latin</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="#" class="image fit"><img src="images/latin.jpg" alt="" /></a>
+									<p>Carpe diem.<br>Carpe vinum.<br>Carpe testiculis.</p>
 									<ul class="actions special">
 										<li><a href="#" class="button">View Lesson</a></li>
 									</ul>
@@ -109,8 +109,8 @@
 										<span class="date">Lesson 6</span>
 										<h2><a href="#">Control</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-									<p>You don't get to be the greatest drummer in the central Okanagan without busting some kneecaps.</p>
+									<a href="#" class="image fit"><img src="images/control.jpg" alt="" /></a>
+									<p>You don't get to be the greatest drummer this side of Mission Creek without busting some mo' fuckin kneecaps from time to time, am I right?</p>
 									<ul class="actions special">
 										<li><a href="#" class="button">View Lesson</a></li>
 									</ul>
@@ -120,7 +120,7 @@
 										<span class="date">Lesson 7</span>
 										<h2><a href="#">Winning</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+									<a href="#" class="image fit"><img src="images/winning.jpg" alt="" /></a>
 									<p>I choose to refuse to confuse loose excuses for news with the true stews and juices of genuine gooses and substance abusing Canadian mooses.</p>
 									<ul class="actions special">
 										<li><a href="#" class="button">View Lesson</a></li>
@@ -196,7 +196,7 @@
 
 				<!-- Copyright -->
 					<div id="copyright">
-						<ul><li>&copy; 2020</li></ul>
+						<ul><li>&copy; 2020 fuckin media guru extraordinaire</li></ul>
 					</div>
 
 			</div>
